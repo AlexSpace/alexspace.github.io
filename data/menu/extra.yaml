@@ -1,0 +1,10 @@
+---
+header:
+  - name: Discord
+    ref: https://discord.gg/zpXnhDP
+    icon: discord
+    external: true
+  - name: YouTube
+    ref: https://www.youtube.com/channel/UC-td1d59GjuSjdED1vcJtdg
+    icon: youtube
+    external: true

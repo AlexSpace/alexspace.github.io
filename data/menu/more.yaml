@@ -1,0 +1,6 @@
+---
+more:
+  - name: Скачать карту
+    ref: "https://maps.w3reforged.com/maps/categories/hero-arena/Battle%20Tanks%20X/"
+    external: true
+    icon: "gdoc_download"

@@ -1,0 +1,42 @@
+#baseURL = "http://localhost"
+baseURL =  "https://alex-space.github.io/btxwiki"
+title = "Battle Tanks X"
+theme = "hugo-geekdoc"
+defaultContentLanguage = "ru"
+publishDir = "docs"
+
+pluralizeListTitles = false
+
+# Geekdoc required configuration
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+disablePathToLower = true
+
+# Required if you want to render robots.txt template
+enableRobotsTXT = true
+
+# Needed for mermaid shortcodes
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
+
+[taxonomies]
+   tag = "tags"
+
+[params]
+geekdocMenuBundle = false
+geekdocFileTreeSortBy = "lastmod"
+
+[languages.ru]
+languageName = "Russian"
+contentDir = "content/"
+weight = 10
+
+[languages.en]
+languageName = "English"
+contentDir = "content/en"
+weight = 20
