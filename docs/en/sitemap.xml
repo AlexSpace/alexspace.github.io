@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost/en/</loc>
+    <loc>https://alex-space.github.io/btxwiki/docs/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost/"
+                href="https://alex-space.github.io/btxwiki/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/"
+                href="https://alex-space.github.io/btxwiki/docs/en/"
                 />
   </url><url>
-    <loc>http://localhost/en/tags/</loc>
+    <loc>https://alex-space.github.io/btxwiki/docs/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost/tags/"
+                href="https://alex-space.github.io/btxwiki/docs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost/en/tags/"
+                href="https://alex-space.github.io/btxwiki/docs/en/tags/"
                 />
   </url>
 </urlset>
