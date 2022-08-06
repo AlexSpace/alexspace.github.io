@@ -3,7 +3,7 @@ title: "Mortar Team"
 draft: false
 ---
 
-![Mortar Team](/media/Items/BTNDemolish.JPG)
+![Mortar Team](media/Items/BTNDemolish.JPG)
 
 | Магазин         | Стоимость  | Заряды | CD       | Мана | Требование |
 | -------------- | ---------  | ------ | -------- | ---- |----------- |

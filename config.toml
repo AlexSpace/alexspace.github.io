@@ -1,5 +1,6 @@
 #baseURL = "http://localhost"
-baseURL =  "https://alex-space.github.io/btxwiki"
+#baseURL =  "https://alex-space.github.io/btxwiki"
+baseURL = "https://alexspace.github.io/"
 title = "Battle Tanks X"
 theme = "hugo-geekdoc"
 defaultContentLanguage = "ru"
