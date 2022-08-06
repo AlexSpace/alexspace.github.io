@@ -2,259 +2,259 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Расходники on Battle Tanks X</title>
-    <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/</link>
+    <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/</link>
     <description>Recent content in Расходники on Battle Tanks X</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 04 Aug 2022 02:41:21 +0600</lastBuildDate><atom:link href="http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Aug 2022 02:41:21 +0600</lastBuildDate><atom:link href="https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Accelerator</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Accelerator/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Accelerator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Accelerator/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Accelerator/</guid>
       <description>Магазин Стоимость Заряды CD Требование Lobster Trader 300 3 30 сек. нет При активации ускоряет ваш танк на максимальную скорость 522 на 6 сек. Как время баффа закончилось, ваш танк останавливается на 1 сек.</description>
     </item>
     
     <item>
       <title>Ally Regenerator</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Ally-Regenerator/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Ally-Regenerator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Ally-Regenerator/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Ally-Regenerator/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 3 40 сек. 0 нет При активации указывается союзный танк на которого будет применен бафф регенарации дающий 300 HP/s. Как только этот союзный танк получит урон от вражеского танка, то этот бафф перестанет действовать.</description>
     </item>
     
     <item>
       <title>Beams</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Beems/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Beems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Beems/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Beems/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 1 50 сек. 15 2 Weapons Upgrade При активации запускает перед вашим танком 3 луча бьющих сверху в 200 АОЕ, каждый из которых наносит 1000 базового урона + 250 урона за каждый Weapons Upgrade. 1 луч бьет на 300 рендж, 2 луч - 700 рендж, 3 луч - 1100 рендж.</description>
     </item>
     
     <item>
       <title>Big Bertha</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Big-Bertha/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Big-Bertha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Big-Bertha/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Big-Bertha/</guid>
       <description>Магазин Стоимость Здоровье Урон Требование Goblin Trader 2500 5500 500 (+75 за каждый Weapons Upgrade) 4 Armor Upgrades Берта это медленная пушка на колесах, которая после покупки появляется рядом с кузней (Research Center) и становится вам подконтрольной до тех пор, пока ее не уничтожат. На всю команду допускается иметь только одну Big Bertha. Цель этого юнита держать оборону на базе. Берта очень дальнобойная, но медлительная, поэтому применять вне базы ее очень сомнительно.</description>
     </item>
     
     <item>
       <title>Black Sun Project</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Black-Sun-Project/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Black-Sun-Project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Black-Sun-Project/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Black-Sun-Project/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Bear Trader 3500 1 3 сек. 0 6 Weapons Upgrade При активации указывается место куда будет установлено здание Black Sun Project. Базовое здоровье у него 7500. Установленное здание начнет высасывать ману по 10 ед. каждую сек. у вас и союзных танков, пока не наберется 250 ед. маны, после чего постройка рушится и из нее появляется Black Sun. Базовое здоровье у него 30000, скорость 125.</description>
     </item>
     
     <item>
       <title>Bomb</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Bomb/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Bomb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Bomb/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Bomb/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Goblin Trader 3250 4 30 сек. 0 4 Weapons Upgrade При активации указывается место, куда будет установлена бомба. Бомба устанавливается в течении 2 сек., и все это время ваш танк не может сдвинуться с места. После установки бомба запускает таймер равный 3 сек., и по истечению таймера происходят 3 взрыва. 1-й - 1000 АОЕ, 2-й - 750 АОЕ, 3-й - 500 АОЕ. Каждый взрыв наносит 4166,66 урона.</description>
     </item>
     
     <item>
       <title>Claw</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Claw/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Claw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Claw/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Claw/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Bear Trader 1500 1 240 сек. 0 5 Weapons Upgrade При активации указывается здание. Если здание союзное, оно будет полностью отремонтировано за 2 сек. Если здание вражеское, то оно получит 20% урона от своего максимального здоровья. Замок противника повреждает лишь на 10%, а союзный Замок ремонтирует на 20%.</description>
     </item>
     
     <item>
       <title>Detector</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Detector/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Detector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Detector/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Detector/</guid>
       <description>Магазин Стоимость Заряды CD Мана Время действия Требование Recearch Center 300 2 1 сек. 0 5 мин. нет При активации указывается место в которое будет установлен вард дающий обзор и видимость невидимых юнитов в 1000 АОЕ вокруг него. Варды можно уничтожить крипами, или специальными предметами вроде Remote Fusy, Defuse Pack, Heavy Defuse Pack.</description>
     </item>
     
     <item>
       <title>Dust</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Dust/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Dust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Dust/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Dust/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Bear Trader 300 4 30 сек. 15 нет При активации все вражеские танки в 1300 АОЕ от вас теряют невидимость и возможность уйти в нее на 5 сек.</description>
     </item>
     
     <item>
       <title>Energy Eraser</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Energy-Eraser/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Energy-Eraser/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Energy-Eraser/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Energy-Eraser/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 3 30 сек. 15 нет При активации во все вражеские танки в 800 рендж от вашего запускается луч выжигающий у них 35 маны + 6 маны за каждый Weapons Upgrade. Не может сжечь больше 45% от максимальной маны противника.</description>
     </item>
     
     <item>
       <title>Factory &amp; Troop Factory</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Factory-Troop-Factory/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Factory-Troop-Factory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Factory-Troop-Factory/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Factory-Troop-Factory/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Recearch Center 2500 1 3 сек. 0 2 Weapons Upgrade, 2 Armor Upgrade При активации указывается место постройки. Factory позволяет регенерировать 2% HP/s всем союзным танкам находящимся в 500 АОЕ от нее. Фабрика устанавливается 10 сек. Factory можно преобразовать в Troop Factory (он же барак) за 1000 золота, тогда из нее будут выходить каждые 20 сек. 5 юнитов (2 Marines, 1 Commander, 1 Artillery, 1 Zeppelin), но способность лечения она потеряет.</description>
     </item>
     
     <item>
       <title>Gravity Absorber</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Gravity-Absorber/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Gravity-Absorber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Gravity-Absorber/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Gravity-Absorber/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 600 1 40 сек. 30 3 Weapons Upgrade При активации вы указываете место куда будет запущенна медленная сфера c расстояния 1750, которая долетев взорвется нанеся базового 2200 урона + 200 урона за каждый Weapons Upgrade. После взрыва появляется черная дыра, которая действует 3 сек. и медленно засасывает в себя все танки в 350 АОЕ.</description>
     </item>
     
     <item>
       <title>Kitenic Blocker</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Kitenic-Blocker/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Kitenic-Blocker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Kitenic-Blocker/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Kitenic-Blocker/</guid>
       <description>Магазин Стоимость Заряды CD Мана Время действия Требование Lobster Trader 300 3 1 сек. 0 3 мин. нет При активации указывается место в которое будет установлен вард запрещающий в 1500 рендж от него установку Kinetic Shield, Heavy Kinetic Shield. Варды можно уничтожить крипами, или специальными предметами вроде Remote Fusy, Defuse Pack, Heavy Defuse Pack.</description>
     </item>
     
     <item>
       <title>Maintenance</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Maintenance/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Maintenance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Maintenance/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Maintenance/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Recearch Center, Control Point 150 2 30 сек. 0 нет При активации запускается ремонт вашего танка на 500 HP в течении 5 сек. + 20% бонус к лечению за каждый Armor Upgrades.</description>
     </item>
     
     <item>
       <title>Mortar Team</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Mortar-Team/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Mortar-Team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Mortar-Team/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Mortar-Team/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Troop Factory, Control Point 400 1 5 сек. 0 1 Weapons Upgrade При активации рядом с вами появляется 3 мортирных крипа, которые сразу перейдут в наступление на вражеский замок атакуя все постройки на своем пути. Время действия крипов 20 сек.</description>
     </item>
     
     <item>
       <title>Net Launcher</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Net-Launcher/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Net-Launcher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Net-Launcher/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Net-Launcher/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Recearch Center 300 4 40 сек. 0 нет При активации указывается летающий вражеский танк, который будет пойман в сеть на 1.5 сек. и на это время воздушный танк становится наземным и по нему будут работать все скиллы и пушки, которые атакуют только наземные цели. Если вражеский танк был пойман над непроходимой местностью (не важно какой, хоть над другим танком, или крипом он был в момент поимки), то его притянет к вашему танку.</description>
     </item>
     
     <item>
       <title>Portable Shield</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Portable-Shield/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Portable-Shield/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Portable-Shield/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Portable-Shield/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 3 40 сек. 0 нет При активации указывается союзный танк на которого будет применен бафф виде щитка, который блокирует любой входящий урон 2 раза + 1 блок за каждый Armor Upgrade. Весь заблокированный урон будет переведен в HP союзного танка.</description>
     </item>
     
     <item>
       <title>Prohibitor</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Prohibitor/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Prohibitor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Prohibitor/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Prohibitor/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 3 50 сек. 20 нет При активации указывается вражеский танк на которого будет применен дебафф, который запрещаюет телепортацию на 3 сек. (не запрещает Control Point Teleport - телепортацию между контрольными точеками и базой)</description>
     </item>
     
     <item>
       <title>Recharge</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Recharge/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Recharge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Recharge/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Recharge/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Recearch Center, Control Point 100 3 30 сек. 0 нет При активации запускается восстановление маны вашего танка на 20 ед. в течении 3 сек. + 20% бонус к лечению за каждый Armor Upgrades.</description>
     </item>
     
     <item>
       <title>Reinforcement</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reinforcement/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reinforcement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reinforcement/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reinforcement/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Troop Factory, Control Point 400 1 5 сек. 0 2 Weapons Upgrade or 2 Armor Upgrades При активации рядом с вами появляется 5 крипов (2 Marines, 1 Commander, 1 Artillery, 1 Zeppelin), которые сразу перейдут в наступление на вражеский замок атакуя всех врагов на своем пути. Время действия крипов 20 сек.</description>
     </item>
     
     <item>
       <title>Reset Tank Skills</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reset-Tank-Skills/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reset-Tank-Skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reset-Tank-Skills/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Reset-Tank-Skills/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Bear Trader 300 1 0 0 нет При активации ваш танк забывает все выученные скиллы, которые не находятся в CD. Таким образом можно дешево и не меняя танка переучиться.</description>
     </item>
     
     <item>
       <title>Sly Grenade</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Sly-Grenade/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Sly-Grenade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Sly-Grenade/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Sly-Grenade/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 450 3 40 сек. 20 нет При активации указывается место в которое будет запущена граната с 1500 рендж. Долетев граната взрывается в 300 АОЕ и наносит 500 базового урона + 100 урона за Weapon Upgrade. Так же все враги получают стан на 1 сек.</description>
     </item>
     
     <item>
       <title>Smoke</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Smoke/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Smoke/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Smoke/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Smoke/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Bear Trader 300 1 120 сек. 0 2 Weapons Upgrade При активации ваш и все союзные танки в 1000 АОЕ от вас получают бафф невидимости, но при этом замедляются на 20%. С каждого из бафнутых танков невидимость слетает, когда в области 500 АОЕ от него появится вражеский танк, или здание.</description>
     </item>
     
     <item>
       <title>Stealth Field</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Stealth-Field/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Stealth-Field/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Stealth-Field/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Stealth-Field/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 600 3 50 сек. 20 нет При активации ваш танк уходит в невидимость на 4 сек., но при этом замедляется на 30%.</description>
     </item>
     
     <item>
       <title>Teleport Breaker</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Teleport-Breaker/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Teleport-Breaker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Teleport-Breaker/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Teleport-Breaker/</guid>
       <description>Магазин Стоимость Заряды CD Мана Время действия Требование Recearch Center 400 1 1 сек. 0 3 мин. нет При активации указывается место в которое будет установлен вард. Все враги которые телепортируются в 1300 АОЕ от этого брейкера перенесутся на брейкер, получат стан на 3 сек. и урон 25% от их максимального здоровья. На телепорты от Control Points не влияет. Варды можно уничтожить крипами, или специальными предметами вроде Remote Fusy, Defuse Pack, Heavy Defuse Pack.</description>
     </item>
     
     <item>
       <title>Three-shot Rifle</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Three-shot-Rifle/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Three-shot-Rifle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Three-shot-Rifle/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Three-shot-Rifle/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 300 3 40 сек. 20 нет При активации выпускает 3 снаряда в случайный вражеский танк в 1050 рендж от вас. Каждый снаряд наносит 125 базового урона + 70 урона за каждый уровень Weapon Upgrade.</description>
     </item>
     
     <item>
       <title>Troop Command Center</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Troop-Command-Center/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Troop-Command-Center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Troop-Command-Center/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Troop-Command-Center/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Recearch Center 2000 1 0 0 4 Weapons Upgrade, 4 Armor Upgrade При активации указывается место постройки Командного Центра. После установки у вас есть возможность указать правой кнопкой мыши любое место в 3000 АОЕ от этого здания, куда будут призываться купленные вами юниты. Они будут сброшены на парашюте на поле боя за накопленную ману в самом Командном центре. Базовая регенерация маны у Командного центра равна 1 + 0.</description>
     </item>
     
     <item>
       <title>Wormhole</title>
-      <link>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Wormhole/</link>
+      <link>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Wormhole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Wormhole/</guid>
+      <guid>https://alex-space.github.io/btxwiki/%D0%9F%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D1%8B/%D0%A0%D0%B0%D1%81%D1%85%D0%BE%D0%B4%D0%BD%D0%B8%D0%BA%D0%B8/Wormhole/</guid>
       <description>Магазин Стоимость Заряды CD Мана Требование Lobster Trader 450 3 50 сек. 0 нет При активации вы указываете место в сторону которого на 800 рендж будет телепортирован ваш танк.</description>
     </item>
     
