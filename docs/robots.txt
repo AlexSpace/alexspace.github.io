@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://alex-space.github.io/btxwiki/sitemap.xml
+Sitemap: http://localhost/sitemap.xml
